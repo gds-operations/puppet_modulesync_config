@@ -1,0 +1,7 @@
+---
+git_base: 'git@github.com:'
+namespace: gds-operations
+branch: modulesync
+message: "Update from gds-operations/puppet_modulesync_config"
+...
+# vim: syntax=yaml
