@@ -2,3 +2,4 @@
 - puppet-auditd
 - puppet-goenv
 - puppet-resolvconf
+- puppet-unattended_reboot
