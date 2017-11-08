@@ -2,6 +2,7 @@
 - puppet-auditd
 - puppet-goenv
 - puppet-hosts
+- puppet-openconnect
 - puppet-rbenv
 - puppet-resolvconf
 - puppet-unattended_reboot
