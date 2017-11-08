@@ -1,6 +1,8 @@
 ---
+- puppet-aptly
 - puppet-auditd
 - puppet-goenv
+- puppet-graphite
 - puppet-hosts
 - puppet-rbenv
 - puppet-resolvconf
