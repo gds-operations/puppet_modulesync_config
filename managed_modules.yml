@@ -1,5 +1,6 @@
 ---
 - puppet-auditd
 - puppet-goenv
+- puppet-hosts
 - puppet-resolvconf
 - puppet-unattended_reboot
